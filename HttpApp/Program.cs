@@ -19,6 +19,7 @@ namespace HttpApp
 
             var client = new HttpClient();
             var serializer = new DataContractJsonSerializer(typeof(List<Users>));
+			// test api webpage 'https://jsonplaceholder.typicode.com/'
             var response = client.GetStreamAsync("https://jsonplaceholder.typicode.com/users");
             var users = serializer.ReadObject(await response) as List<Users>;
 
