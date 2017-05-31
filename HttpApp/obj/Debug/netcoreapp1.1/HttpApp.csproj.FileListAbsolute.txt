@@ -1,0 +1,8 @@
+/home/glen/Documents/Dotnet/HttpApp/bin/Debug/netcoreapp1.1/HttpApp.deps.json
+/home/glen/Documents/Dotnet/HttpApp/bin/Debug/netcoreapp1.1/HttpApp.runtimeconfig.json
+/home/glen/Documents/Dotnet/HttpApp/bin/Debug/netcoreapp1.1/HttpApp.runtimeconfig.dev.json
+/home/glen/Documents/Dotnet/HttpApp/bin/Debug/netcoreapp1.1/HttpApp.dll
+/home/glen/Documents/Dotnet/HttpApp/bin/Debug/netcoreapp1.1/HttpApp.pdb
+/home/glen/Documents/Dotnet/HttpApp/obj/Debug/netcoreapp1.1/HttpApp.AssemblyInfo.cs
+/home/glen/Documents/Dotnet/HttpApp/obj/Debug/netcoreapp1.1/HttpApp.dll
+/home/glen/Documents/Dotnet/HttpApp/obj/Debug/netcoreapp1.1/HttpApp.pdb
